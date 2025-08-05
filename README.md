@@ -251,8 +251,6 @@ The built application (`dist/` folder) can be deployed to any static hosting ser
 
 ## 📄 License
 
-This project is licensed under the MIT License.
-
----
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Built with ❤️ using modern React ecosystem**
