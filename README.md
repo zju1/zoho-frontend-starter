@@ -51,8 +51,8 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd ecom-web
+git clone https://github.com/zju1/zoho-frontend-starter
+cd zoho-frontend-started
 ```
 
 2. Install dependencies:
